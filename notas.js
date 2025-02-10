@@ -13,7 +13,7 @@ function verificarAprovacao(media, mediaAprovacao) {
 }
 
 // Notas dos alunos
-let notasAlunos = [8, 7.5, 9, 6, 8.5];
+let notasAlunos = [8, 7, 9];
 let mediaAprovacao = 7;  // Média necessária para aprovação
 
 // Calcular a média
